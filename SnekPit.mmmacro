@@ -1,0 +1,2715 @@
+﻿* | Level 1
+
+5 | X | X | 100 | Keypress up
+
+6 | X | X | 100 | Keypress right
+
+7 | X | X | 100 | Keypress up
+
+8 | X | X | 100 | Keypress left
+
+9 | X | X | 100 | Keypress up
+
+10 | X | X | 100 | Keypress right
+
+11 | X | X | 100 | Keypress up
+
+* | Level 2
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | X | X | 100 | Keypress down
+
+11 | X | X | 100 | Keypress right
+
+12 | X | X | 100 | Keypress right
+
+13 | X | X | 100 | Keypress right
+
+14 | X | X | 100 | Keypress down
+
+15 | X | X | 100 | Keypress right
+
+16 | X | X | 100 | Keypress up
+
+17 | X | X | 100 | Keypress right
+
+18 | X | X | 100 | Keypress right
+
+19 | X | X | 100 | Keypress right
+
+20 | X | X | 100 | Keypress up
+
+21 | X | X | 100 | Keypress left
+
+* | Level 3
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+23 | X | X | 100 | Keypress right
+
+24 | X | X | 100 | Keypress right
+
+25 | X | X | 100 | Keypress right
+
+26 | X | X | 100 | Keypress right
+
+27 | X | X | 100 | Keypress right
+
+28 | X | X | 100 | Keypress right
+
+29 | X | X | 100 | Keypress down
+
+30 | X | X | 100 | Keypress left
+
+31 | X | X | 100 | Keypress down
+
+32 | X | X | 100 | Keypress right
+
+33 | X | X | 100 | Keypress down
+
+34 | X | X | 100 | Keypress left
+
+35 | X | X | 100 | Keypress left
+
+36 | X | X | 100 | Keypress left
+
+37 | X | X | 100 | Keypress left
+
+38 | X | X | 100 | Keypress left
+
+39 | X | X | 100 | Keypress left
+
+40 | X | X | 100 | Keypress up
+
+41 | X | X | 100 | Keypress up
+
+42 | X | X | 100 | Keypress right
+
+43 | X | X | 100 | Keypress down
+
+44 | X | X | 100 | Keypress right
+
+* | Level 4
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+46 | X | X | 100 | Keypress right
+
+47 | X | X | 100 | Keypress down
+
+48 | X | X | 100 | Keypress left
+
+49 | X | X | 100 | Keypress down
+
+50 | X | X | 100 | Keypress right
+
+51 | X | X | 100 | Keypress right
+
+52 | X | X | 100 | Keypress up
+
+53 | X | X | 100 | Keypress right
+
+54 | X | X | 100 | Keypress right
+
+55 | X | X | 100 | Keypress right
+
+56 | X | X | 100 | Keypress right
+
+57 | X | X | 100 | Keypress down
+
+58 | X | X | 100 | Keypress right
+
+59 | X | X | 100 | Keypress up
+
+60 | X | X | 100 | Keypress up
+
+61 | X | X | 100 | Keypress right
+
+62 | X | X | 100 | Keypress down
+
+63 | X | X | 100 | Keypress right
+
+64 | X | X | 100 | Keypress right
+
+65 | X | X | 100 | Keypress right
+
+66 | X | X | 100 | Keypress right
+
+67 | X | X | 100 | Keypress up
+
+68 | X | X | 100 | Keypress right
+
+69 | X | X | 100 | Keypress down
+
+70 | X | X | 100 | Keypress down
+
+71 | X | X | 100 | Keypress right
+
+72 | X | X | 100 | Keypress up
+
+73 | X | X | 100 | Keypress up
+
+* | Level 5
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+78 | X | X | 100 | Keypress right
+
+79 | X | X | 100 | Keypress right
+
+80 | X | X | 100 | Keypress right
+
+81 | X | X | 100 | Keypress down
+
+82 | X | X | 100 | Keypress down
+
+83 | X | X | 100 | Keypress left
+
+84 | X | X | 100 | Keypress left
+
+85 | X | X | 100 | Keypress down
+
+86 | X | X | 100 | Keypress down
+
+87 | X | X | 100 | Keypress right
+
+88 | X | X | 100 | Keypress right
+
+89 | X | X | 100 | Keypress up
+
+90 | X | X | 100 | Keypress right
+
+91 | X | X | 100 | Keypress down
+
+92 | X | X | 100 | Keypress right
+
+93 | X | X | 100 | Keypress up
+
+94 | X | X | 100 | Keypress up
+
+95 | X | X | 100 | Keypress up
+
+96 | X | X | 100 | Keypress left
+
+97 | X | X | 100 | Keypress up
+
+98 | X | X | 100 | Keypress right
+
+99 | X | X | 100 | Keypress right
+
+100 | X | X | 100 | Keypress right
+
+101 | X | X | 100 | Keypress down
+
+102 | X | X | 100 | Keypress down
+
+103 | X | X | 100 | Keypress down
+
+104 | X | X | 100 | Keypress left
+
+105 | X | X | 100 | Keypress down
+
+106 | X | X | 100 | Keypress right
+
+107 | X | X | 100 | Keypress right
+
+* | Level 6
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+109 | X | X | 100 | Keypress up
+
+110 | X | X | 100 | Keypress up
+
+111 | X | X | 100 | Keypress up
+
+112 | X | X | 100 | Keypress right
+
+113 | X | X | 100 | Keypress right
+
+114 | X | X | 100 | Keypress right
+
+115 | X | X | 100 | Keypress up
+
+116 | X | X | 100 | Keypress left
+
+117 | X | X | 100 | Keypress left
+
+118 | X | X | 100 | Keypress left
+
+119 | X | X | 100 | Keypress up
+
+120 | X | X | 100 | Keypress up
+
+121 | X | X | 100 | Keypress up
+
+122 | X | X | 100 | Keypress right
+
+123 | X | X | 100 | Keypress right
+
+124 | X | X | 100 | Keypress right
+
+125 | X | X | 100 | Keypress down
+
+126 | X | X | 100 | Keypress down
+
+127 | X | X | 100 | Keypress right
+
+128 | X | X | 100 | Keypress up
+
+129 | X | X | 100 | Keypress up
+
+130 | X | X | 100 | Keypress right
+
+131 | X | X | 100 | Keypress right
+
+132 | X | X | 100 | Keypress right
+
+133 | X | X | 100 | Keypress down
+
+134 | X | X | 100 | Keypress down
+
+135 | X | X | 100 | Keypress down
+
+136 | X | X | 100 | Keypress left
+
+137 | X | X | 100 | Keypress left
+
+138 | X | X | 100 | Keypress left
+
+139 | X | X | 100 | Keypress down
+
+140 | X | X | 100 | Keypress right
+
+141 | X | X | 100 | Keypress right
+
+142 | X | X | 100 | Keypress right
+
+143 | X | X | 100 | Keypress down
+
+144 | X | X | 100 | Keypress down
+
+145 | X | X | 100 | Keypress down
+
+146 | X | X | 100 | Keypress left
+
+147 | X | X | 100 | Keypress left
+
+148 | X | X | 100 | Keypress left
+
+149 | X | X | 100 | Keypress up
+
+150 | X | X | 100 | Keypress up
+
+151 | X | X | 100 | Keypress left
+
+152 | X | X | 100 | Keypress down
+
+153 | X | X | 100 | Keypress down
+
+154 | X | X | 100 | Keypress left
+
+* | Level 7
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+156 | X | X | 100 | Keypress up
+
+157 | X | X | 100 | Keypress up
+
+158 | X | X | 100 | Keypress right
+
+159 | X | X | 100 | Keypress right
+
+160 | X | X | 100 | Keypress right
+
+161 | X | X | 100 | Keypress up
+
+162 | X | X | 100 | Keypress left
+
+163 | X | X | 100 | Keypress up
+
+164 | X | X | 100 | Keypress left
+
+165 | X | X | 100 | Keypress down
+
+166 | X | X | 100 | Keypress left
+
+167 | X | X | 100 | Keypress left
+
+168 | X | X | 100 | Keypress down
+
+169 | X | X | 100 | Keypress down
+
+170 | X | X | 100 | Keypress down
+
+171 | X | X | 100 | Keypress down
+
+172 | X | X | 100 | Keypress left
+
+173 | X | X | 100 | Keypress up
+
+174 | X | X | 100 | Keypress up
+
+175 | X | X | 100 | Keypress up
+
+176 | X | X | 100 | Keypress up
+
+177 | X | X | 100 | Keypress left
+
+178 | X | X | 100 | Keypress down
+
+179 | X | X | 100 | Keypress left
+
+180 | X | X | 100 | Keypress up
+
+181 | X | X | 100 | Keypress left
+
+182 | X | X | 100 | Keypress up
+
+183 | X | X | 100 | Keypress right
+
+184 | X | X | 100 | Keypress right
+
+185 | X | X | 100 | Keypress right
+
+186 | X | X | 100 | Keypress right
+
+187 | X | X | 100 | Keypress up
+
+188 | X | X | 100 | Keypress left
+
+189 | X | X | 100 | Keypress up
+
+190 | X | X | 100 | Keypress right
+
+191 | X | X | 100 | Keypress up
+
+192 | X | X | 100 | Keypress right
+
+193 | X | X | 100 | Keypress down
+
+194 | X | X | 100 | Keypress down
+
+* | Level 8
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+196 | X | X | 100 | Keypress up
+
+197 | X | X | 100 | Keypress up
+
+198 | X | X | 100 | Keypress right
+
+199 | X | X | 100 | Keypress down
+
+200 | X | X | 100 | Keypress down
+
+201 | X | X | 100 | Keypress right
+
+202 | X | X | 100 | Keypress up
+
+203 | X | X | 100 | Keypress right
+
+204 | X | X | 100 | Keypress right
+
+205 | X | X | 100 | Keypress right
+
+206 | X | X | 100 | Keypress up
+
+207 | X | X | 100 | Keypress right
+
+208 | X | X | 100 | Keypress down
+
+209 | X | X | 100 | Keypress right
+
+210 | X | X | 100 | Keypress up
+
+211 | X | X | 100 | Keypress up
+
+212 | X | X | 100 | Keypress left
+
+213 | X | X | 100 | Keypress up
+
+214 | X | X | 100 | Keypress left
+
+215 | X | X | 100 | Keypress down
+
+216 | X | X | 100 | Keypress left
+
+217 | X | X | 100 | Keypress down
+
+218 | X | X | 100 | Keypress left
+
+219 | X | X | 100 | Keypress left
+
+220 | X | X | 100 | Keypress up
+
+221 | X | X | 100 | Keypress left
+
+222 | X | X | 100 | Keypress left
+
+223 | X | X | 100 | Keypress up
+
+224 | X | X | 100 | Keypress right
+
+225 | X | X | 100 | Keypress up
+
+226 | X | X | 100 | Keypress right
+
+227 | X | X | 100 | Keypress up
+
+228 | X | X | 100 | Keypress left
+
+229 | X | X | 100 | Keypress left
+
+230 | X | X | 100 | Keypress down
+
+231 | X | X | 100 | Keypress left
+
+232 | X | X | 100 | Keypress up
+
+233 | X | X | 100 | Keypress up
+
+234 | X | X | 100 | Keypress right
+
+235 | X | X | 100 | Keypress right
+
+236 | X | X | 100 | Keypress right
+
+237 | X | X | 100 | Keypress right
+
+238 | X | X | 100 | Keypress down
+
+239 | X | X | 100 | Keypress right
+
+240 | X | X | 100 | Keypress down
+
+241 | X | X | 100 | Keypress right
+
+242 | X | X | 100 | Keypress right
+
+243 | X | X | 100 | Keypress up
+
+244 | X | X | 100 | Keypress up
+
+245 | X | X | 100 | Keypress left
+
+246 | X | X | 100 | Keypress up
+
+* | Level 9
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+255 | X | X | 100 | Keypress up
+
+256 | X | X | 100 | Keypress left
+
+257 | X | X | 100 | Keypress left
+
+258 | X | X | 100 | Keypress down
+
+259 | X | X | 100 | Keypress down
+
+260 | X | X | 100 | Keypress down
+
+261 | X | X | 100 | Keypress right
+
+262 | X | X | 100 | Keypress down
+
+263 | X | X | 100 | Keypress left
+
+264 | X | X | 100 | Keypress down
+
+265 | X | X | 100 | Keypress right
+
+266 | X | X | 100 | Keypress down
+
+267 | X | X | 100 | Keypress left
+
+268 | X | X | 100 | Keypress left
+
+269 | X | X | 100 | Keypress left
+
+270 | X | X | 100 | Keypress left
+
+271 | X | X | 100 | Keypress left
+
+272 | X | X | 100 | Keypress up
+
+273 | X | X | 100 | Keypress right
+
+274 | X | X | 100 | Keypress up
+
+275 | X | X | 100 | Keypress left
+
+276 | X | X | 100 | Keypress up
+
+277 | X | X | 100 | Keypress right
+
+278 | X | X | 100 | Keypress right
+
+279 | X | X | 100 | Keypress down
+
+280 | X | X | 100 | Keypress right
+
+281 | X | X | 100 | Keypress up
+
+282 | X | X | 100 | Keypress up
+
+283 | X | X | 100 | Keypress up
+
+284 | X | X | 100 | Keypress up
+
+285 | X | X | 100 | Keypress up
+
+286 | X | X | 100 | Keypress right
+
+287 | X | X | 100 | Keypress right
+
+288 | X | X | 100 | Keypress right
+
+289 | X | X | 100 | Keypress right
+
+290 | X | X | 100 | Keypress down
+
+291 | X | X | 100 | Keypress right
+
+292 | X | X | 100 | Keypress up
+
+293 | X | X | 100 | Keypress right
+
+294 | X | X | 100 | Keypress right
+
+295 | X | X | 100 | Keypress down
+
+296 | X | X | 100 | Keypress down
+
+297 | X | X | 100 | Keypress down
+
+298 | X | X | 100 | Keypress down
+
+299 | X | X | 100 | Keypress right
+
+300 | X | X | 100 | Keypress right
+
+301 | X | X | 100 | Keypress down
+
+302 | X | X | 100 | Keypress right
+
+303 | X | X | 100 | Keypress down
+
+304 | X | X | 100 | Keypress left
+
+305 | X | X | 100 | Keypress down
+
+306 | X | X | 100 | Keypress left
+
+307 | X | X | 100 | Keypress left
+
+308 | X | X | 100 | Keypress up
+
+309 | X | X | 100 | Keypress right
+
+310 | X | X | 100 | Keypress up
+
+311 | X | X | 100 | Keypress left
+
+312 | X | X | 100 | Keypress left
+
+313 | X | X | 100 | Keypress down
+
+314 | X | X | 100 | Keypress left
+
+315 | X | X | 100 | Keypress up
+
+316 | X | X | 100 | Keypress up
+
+317 | X | X | 100 | Keypress right
+
+318 | X | X | 100 | Keypress up
+
+319 | X | X | 100 | Keypress up
+
+320 | X | X | 100 | Keypress left
+
+* | Level 10
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+323 | X | X | 100 | Keypress right
+
+324 | X | X | 100 | Keypress down
+
+325 | X | X | 100 | Keypress left
+
+326 | X | X | 100 | Keypress down
+
+327 | X | X | 100 | Keypress right
+
+328 | X | X | 100 | Keypress down
+
+329 | X | X | 100 | Keypress right
+
+330 | X | X | 100 | Keypress up
+
+331 | X | X | 100 | Keypress up
+
+332 | X | X | 100 | Keypress right
+
+333 | X | X | 100 | Keypress up
+
+334 | X | X | 100 | Keypress left
+
+335 | X | X | 100 | Keypress up
+
+336 | X | X | 100 | Keypress right
+
+337 | X | X | 100 | Keypress up
+
+338 | X | X | 100 | Keypress left
+
+339 | X | X | 100 | Keypress up
+
+340 | X | X | 100 | Keypress left
+
+341 | X | X | 100 | Keypress up
+
+342 | X | X | 100 | Keypress up
+
+343 | X | X | 100 | Keypress left
+
+344 | X | X | 100 | Keypress down
+
+345 | X | X | 100 | Keypress left
+
+346 | X | X | 100 | Keypress down
+
+347 | X | X | 100 | Keypress down
+
+348 | X | X | 100 | Keypress down
+
+349 | X | X | 100 | Keypress left
+
+350 | X | X | 100 | Keypress up
+
+351 | X | X | 100 | Keypress up
+
+352 | X | X | 100 | Keypress up
+
+353 | X | X | 100 | Keypress up
+
+354 | X | X | 100 | Keypress left
+
+355 | X | X | 100 | Keypress down
+
+356 | X | X | 100 | Keypress left
+
+357 | X | X | 100 | Keypress down
+
+358 | X | X | 100 | Keypress left
+
+359 | X | X | 100 | Keypress down
+
+360 | X | X | 100 | Keypress left
+
+361 | X | X | 100 | Keypress down
+
+362 | X | X | 100 | Keypress right
+
+363 | X | X | 100 | Keypress down
+
+364 | X | X | 100 | Keypress left
+
+365 | X | X | 100 | Keypress down
+
+366 | X | X | 100 | Keypress right
+
+367 | X | X | 100 | Keypress down
+
+368 | X | X | 100 | Keypress down
+
+369 | X | X | 100 | Keypress right
+
+370 | X | X | 100 | Keypress up
+
+371 | X | X | 100 | Keypress up
+
+372 | X | X | 100 | Keypress up
+
+373 | X | X | 100 | Keypress right
+
+374 | X | X | 100 | Keypress down
+
+375 | X | X | 100 | Keypress down
+
+376 | X | X | 100 | Keypress right
+
+377 | X | X | 100 | Keypress down
+
+378 | X | X | 100 | Keypress right
+
+379 | X | X | 100 | Keypress up
+
+380 | X | X | 100 | Keypress up
+
+* | Level 11
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+383 | X | X | 100 | Keypress right
+
+384 | X | X | 100 | Keypress right
+
+385 | X | X | 100 | Keypress right
+
+386 | X | X | 100 | Keypress right
+
+387 | X | X | 100 | Keypress up
+
+388 | X | X | 100 | Keypress up
+
+389 | X | X | 100 | Keypress left
+
+390 | X | X | 100 | Keypress left
+
+391 | X | X | 100 | Keypress down
+
+392 | X | X | 100 | Keypress down
+
+393 | X | X | 100 | Keypress down
+
+394 | X | X | 100 | Keypress down
+
+* | Level 12
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+396 | X | X | 100 | Keypress up
+
+397 | X | X | 100 | Keypress up
+
+398 | X | X | 100 | Keypress up
+
+399 | X | X | 100 | Keypress up
+
+400 | X | X | 100 | Keypress up
+
+401 | X | X | 100 | Keypress up
+
+402 | X | X | 100 | Keypress down
+
+403 | X | X | 100 | Keypress down
+
+404 | X | X | 100 | Keypress down
+
+405 | X | X | 100 | Keypress right
+
+406 | X | X | 100 | Keypress right
+
+407 | X | X | 100 | Keypress right
+
+* | Level 13
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+409 | X | X | 100 | Keypress up
+
+410 | X | X | 100 | Keypress right
+
+411 | X | X | 100 | Keypress right
+
+412 | X | X | 100 | Keypress up
+
+413 | X | X | 100 | Keypress left
+
+414 | X | X | 100 | Keypress left
+
+415 | X | X | 100 | Keypress left
+
+416 | X | X | 100 | Keypress left
+
+417 | X | X | 100 | Keypress down
+
+418 | X | X | 100 | Keypress right
+
+419 | X | X | 100 | Keypress right
+
+420 | X | X | 100 | Keypress up
+
+421 | X | X | 100 | Keypress right
+
+422 | X | X | 100 | Keypress down
+
+423 | X | X | 100 | Keypress right
+
+424 | X | X | 100 | Keypress right
+
+425 | X | X | 100 | Keypress right
+
+426 | X | X | 100 | Keypress up
+
+427 | X | X | 100 | Keypress left
+
+428 | X | X | 100 | Keypress left
+
+429 | X | X | 100 | Keypress up
+
+* | Level 14
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+434 | X | X | 100 | Keypress left
+
+435 | X | X | 100 | Keypress left
+
+436 | X | X | 100 | Keypress left
+
+437 | X | X | 100 | Keypress up
+
+438 | X | X | 100 | Keypress up
+
+439 | X | X | 100 | Keypress right
+
+440 | X | X | 100 | Keypress up
+
+441 | X | X | 100 | Keypress right
+
+442 | X | X | 100 | Keypress down
+
+443 | X | X | 100 | Keypress right
+
+444 | X | X | 100 | Keypress down
+
+445 | X | X | 100 | Keypress left
+
+446 | X | X | 100 | Keypress down
+
+447 | X | X | 100 | Keypress left
+
+448 | X | X | 100 | Keypress down
+
+449 | X | X | 100 | Keypress right
+
+450 | X | X | 100 | Keypress down
+
+451 | X | X | 100 | Keypress right
+
+452 | X | X | 100 | Keypress down
+
+453 | X | X | 100 | Keypress down
+
+454 | X | X | 100 | Keypress left
+
+455 | X | X | 100 | Keypress up
+
+456 | X | X | 100 | Keypress up
+
+457 | X | X | 100 | Keypress left
+
+458 | X | X | 100 | Keypress left
+
+459 | X | X | 100 | Keypress right
+
+460 | X | X | 100 | Keypress down
+
+461 | X | X | 100 | Keypress left
+
+462 | X | X | 100 | Keypress down
+
+463 | X | X | 100 | Keypress right
+
+464 | X | X | 100 | Keypress down
+
+465 | X | X | 100 | Keypress right
+
+* | Level 15
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+469 | X | X | 100 | Keypress right
+
+470 | X | X | 100 | Keypress right
+
+471 | X | X | 100 | Keypress right
+
+472 | X | X | 100 | Keypress right
+
+473 | X | X | 100 | Keypress right
+
+474 | X | X | 100 | Keypress down
+
+475 | X | X | 100 | Keypress left
+
+476 | X | X | 100 | Keypress left
+
+477 | X | X | 100 | Keypress left
+
+478 | X | X | 100 | Keypress left
+
+479 | X | X | 100 | Keypress left
+
+480 | X | X | 100 | Keypress down
+
+481 | X | X | 100 | Keypress right
+
+482 | X | X | 100 | Keypress right
+
+483 | X | X | 100 | Keypress right
+
+484 | X | X | 100 | Keypress right
+
+485 | X | X | 100 | Keypress right
+
+486 | X | X | 100 | Keypress down
+
+487 | X | X | 100 | Keypress left
+
+488 | X | X | 100 | Keypress left
+
+489 | X | X | 100 | Keypress left
+
+490 | X | X | 100 | Keypress left
+
+491 | X | X | 100 | Keypress left
+
+492 | X | X | 100 | Keypress down
+
+493 | X | X | 100 | Keypress right
+
+494 | X | X | 100 | Keypress right
+
+495 | X | X | 100 | Keypress right
+
+496 | X | X | 100 | Keypress right
+
+497 | X | X | 100 | Keypress right
+
+498 | X | X | 100 | Keypress left
+
+499 | X | X | 100 | Keypress up
+
+500 | X | X | 100 | Keypress up
+
+501 | X | X | 100 | Keypress up
+
+502 | X | X | 100 | Keypress left
+
+503 | X | X | 100 | Keypress left
+
+504 | X | X | 100 | Keypress left
+
+505 | X | X | 100 | Keypress down
+
+506 | X | X | 100 | Keypress down
+
+507 | X | X | 100 | Keypress down
+
+508 | X | X | 100 | Keypress down
+
+509 | X | X | 100 | Keypress right
+
+510 | X | X | 100 | Keypress up
+
+511 | X | X | 100 | Keypress up
+
+512 | X | X | 100 | Keypress up
+
+513 | X | X | 100 | Keypress right
+
+514 | X | X | 100 | Keypress down
+
+515 | X | X | 100 | Keypress down
+
+516 | X | X | 100 | Keypress down
+
+517 | X | X | 100 | Keypress right
+
+518 | X | X | 100 | Keypress right
+
+519 | X | X | 100 | Keypress right
+
+* | Level 16
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+522 | X | X | 100 | Keypress right
+
+523 | X | X | 100 | Keypress right
+
+524 | X | X | 100 | Keypress up
+
+525 | X | X | 100 | Keypress up
+
+526 | X | X | 100 | Keypress up
+
+527 | X | X | 100 | Keypress down
+
+528 | X | X | 100 | Keypress down
+
+529 | X | X | 100 | Keypress down
+
+530 | X | X | 100 | Keypress right
+
+531 | X | X | 100 | Keypress right
+
+532 | X | X | 100 | Keypress up
+
+533 | X | X | 100 | Keypress up
+
+534 | X | X | 100 | Keypress up
+
+535 | X | X | 100 | Keypress down
+
+536 | X | X | 100 | Keypress down
+
+537 | X | X | 100 | Keypress down
+
+538 | X | X | 100 | Keypress right
+
+539 | X | X | 100 | Keypress right
+
+540 | X | X | 100 | Keypress up
+
+541 | X | X | 100 | Keypress up
+
+542 | X | X | 100 | Keypress up
+
+543 | X | X | 100 | Keypress down
+
+544 | X | X | 100 | Keypress down
+
+545 | X | X | 100 | Keypress down
+
+546 | X | X | 100 | Keypress right
+
+547 | X | X | 100 | Keypress right
+
+548 | X | X | 100 | Keypress up
+
+549 | X | X | 100 | Keypress up
+
+550 | X | X | 100 | Keypress up
+
+551 | X | X | 100 | Keypress left
+
+552 | X | X | 100 | Keypress left
+
+553 | X | X | 100 | Keypress left
+
+554 | X | X | 100 | Keypress left
+
+555 | X | X | 100 | Keypress left
+
+556 | X | X | 100 | Keypress left
+
+557 | X | X | 100 | Keypress left
+
+558 | X | X | 100 | Keypress left
+
+* | Level 17
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+560 | X | X | 100 | Keypress right
+
+561 | X | X | 100 | Keypress right
+
+562 | X | X | 100 | Keypress right
+
+563 | X | X | 100 | Keypress right
+
+564 | X | X | 100 | Keypress up
+
+565 | X | X | 100 | Keypress up
+
+566 | X | X | 100 | Keypress down
+
+567 | X | X | 100 | Keypress down
+
+568 | X | X | 100 | Keypress right
+
+569 | X | X | 100 | Keypress right
+
+570 | X | X | 100 | Keypress right
+
+571 | X | X | 100 | Keypress right
+
+572 | X | X | 100 | Keypress up
+
+573 | X | X | 100 | Keypress up
+
+574 | X | X | 100 | Keypress up
+
+575 | X | X | 100 | Keypress up
+
+576 | X | X | 100 | Keypress up
+
+577 | X | X | 100 | Keypress left
+
+578 | X | X | 100 | Keypress left
+
+579 | X | X | 100 | Keypress right
+
+580 | X | X | 100 | Keypress right
+
+581 | X | X | 100 | Keypress up
+
+582 | X | X | 100 | Keypress up
+
+583 | X | X | 100 | Keypress up
+
+584 | X | X | 100 | Keypress left
+
+585 | X | X | 100 | Keypress left
+
+586 | X | X | 100 | Keypress left
+
+587 | X | X | 100 | Keypress left
+
+588 | X | X | 100 | Keypress left
+
+589 | X | X | 100 | Keypress left
+
+590 | X | X | 100 | Keypress down
+
+591 | X | X | 100 | Keypress down
+
+592 | X | X | 100 | Keypress up
+
+593 | X | X | 100 | Keypress up
+
+594 | X | X | 100 | Keypress left
+
+595 | X | X | 100 | Keypress left
+
+596 | X | X | 100 | Keypress down
+
+597 | X | X | 100 | Keypress down
+
+598 | X | X | 100 | Keypress down
+
+599 | X | X | 100 | Keypress down
+
+600 | X | X | 100 | Keypress down
+
+601 | X | X | 100 | Keypress down
+
+602 | X | X | 100 | Keypress right
+
+603 | X | X | 100 | Keypress right
+
+604 | X | X | 100 | Keypress right
+
+605 | X | X | 100 | Keypress right
+
+606 | X | X | 100 | Keypress right
+
+607 | X | X | 100 | Keypress right
+
+608 | X | X | 100 | Keypress up
+
+609 | X | X | 100 | Keypress up
+
+610 | X | X | 100 | Keypress up
+
+611 | X | X | 100 | Keypress up
+
+612 | X | X | 100 | Keypress left
+
+613 | X | X | 100 | Keypress left
+
+614 | X | X | 100 | Keypress left
+
+615 | X | X | 100 | Keypress left
+
+616 | X | X | 100 | Keypress down
+
+617 | X | X | 100 | Keypress down
+
+618 | X | X | 100 | Keypress right
+
+619 | X | X | 100 | Keypress right
+
+* | Level 18
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+623 | X | X | 100 | Keypress left
+
+624 | X | X | 100 | Keypress left
+
+625 | X | X | 100 | Keypress left
+
+626 | X | X | 100 | Keypress left
+
+627 | X | X | 100 | Keypress left
+
+628 | X | X | 100 | Keypress right
+
+629 | X | X | 100 | Keypress up
+
+630 | X | X | 100 | Keypress right
+
+631 | X | X | 100 | Keypress up
+
+632 | X | X | 100 | Keypress down
+
+633 | X | X | 100 | Keypress right
+
+634 | X | X | 100 | Keypress right
+
+635 | X | X | 100 | Keypress right
+
+636 | X | X | 100 | Keypress right
+
+637 | X | X | 100 | Keypress down
+
+638 | X | X | 100 | Keypress up
+
+639 | X | X | 100 | Keypress right
+
+640 | X | X | 100 | Keypress right
+
+641 | X | X | 100 | Keypress down
+
+642 | X | X | 100 | Keypress right
+
+643 | X | X | 100 | Keypress right
+
+644 | X | X | 100 | Keypress left
+
+645 | X | X | 100 | Keypress up
+
+646 | X | X | 100 | Keypress left
+
+647 | X | X | 100 | Keypress up
+
+648 | X | X | 100 | Keypress left
+
+649 | X | X | 100 | Keypress up
+
+650 | X | X | 100 | Keypress down
+
+651 | X | X | 100 | Keypress left
+
+652 | X | X | 100 | Keypress left
+
+653 | X | X | 100 | Keypress left
+
+654 | X | X | 100 | Keypress up
+
+655 | X | X | 100 | Keypress left
+
+656 | X | X | 100 | Keypress right
+
+657 | X | X | 100 | Keypress up
+
+658 | X | X | 100 | Keypress right
+
+659 | X | X | 100 | Keypress right
+
+660 | X | X | 100 | Keypress left
+
+661 | X | X | 100 | Keypress up
+
+* | Level 19
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+663 | X | X | 100 | Keypress left
+
+664 | X | X | 100 | Keypress down
+
+665 | X | X | 100 | Keypress left
+
+666 | X | X | 100 | Keypress left
+
+667 | X | X | 100 | Keypress up
+
+668 | X | X | 100 | Keypress up
+
+669 | X | X | 100 | Keypress right
+
+670 | X | X | 100 | Keypress right
+
+671 | X | X | 100 | Keypress left
+
+672 | X | X | 100 | Keypress up
+
+673 | X | X | 100 | Keypress up
+
+674 | X | X | 100 | Keypress up
+
+675 | X | X | 100 | Keypress up
+
+676 | X | X | 100 | Keypress left
+
+677 | X | X | 100 | Keypress up
+
+678 | X | X | 100 | Keypress up
+
+679 | X | X | 100 | Keypress down
+
+680 | X | X | 100 | Keypress right
+
+681 | X | X | 100 | Keypress right
+
+682 | X | X | 100 | Keypress up
+
+683 | X | X | 100 | Keypress down
+
+684 | X | X | 100 | Keypress right
+
+685 | X | X | 100 | Keypress right
+
+686 | X | X | 100 | Keypress right
+
+687 | X | X | 100 | Keypress right
+
+688 | X | X | 100 | Keypress down
+
+689 | X | X | 100 | Keypress right
+
+690 | X | X | 100 | Keypress right
+
+691 | X | X | 100 | Keypress up
+
+692 | X | X | 100 | Keypress up
+
+693 | X | X | 100 | Keypress left
+
+694 | X | X | 100 | Keypress left
+
+695 | X | X | 100 | Keypress down
+
+696 | X | X | 100 | Keypress down
+
+697 | X | X | 100 | Keypress right
+
+698 | X | X | 100 | Keypress down
+
+699 | X | X | 100 | Keypress down
+
+700 | X | X | 100 | Keypress down
+
+701 | X | X | 100 | Keypress down
+
+702 | X | X | 100 | Keypress right
+
+703 | X | X | 100 | Keypress down
+
+704 | X | X | 100 | Keypress down
+
+705 | X | X | 100 | Keypress up
+
+706 | X | X | 100 | Keypress left
+
+707 | X | X | 100 | Keypress down
+
+708 | X | X | 100 | Keypress left
+
+709 | X | X | 100 | Keypress right
+
+710 | X | X | 100 | Keypress up
+
+711 | X | X | 100 | Keypress up
+
+712 | X | X | 100 | Keypress left
+
+713 | X | X | 100 | Keypress down
+
+714 | X | X | 100 | Keypress left
+
+* | Level 20
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+718 | X | X | 100 | Keypress up
+
+719 | X | X | 100 | Keypress right
+
+720 | X | X | 100 | Keypress up
+
+721 | X | X | 100 | Keypress right
+
+722 | X | X | 100 | Keypress up
+
+723 | X | X | 100 | Keypress down
+
+724 | X | X | 100 | Keypress right
+
+725 | X | X | 100 | Keypress down
+
+726 | X | X | 100 | Keypress right
+
+727 | X | X | 100 | Keypress left
+
+728 | X | X | 100 | Keypress down
+
+729 | X | X | 100 | Keypress down
+
+730 | X | X | 100 | Keypress left
+
+731 | X | X | 100 | Keypress left
+
+732 | X | X | 100 | Keypress down
+
+733 | X | X | 100 | Keypress down
+
+734 | X | X | 100 | Keypress right
+
+735 | X | X | 100 | Keypress up
+
+736 | X | X | 100 | Keypress up
+
+737 | X | X | 100 | Keypress left
+
+738 | X | X | 100 | Keypress left
+
+739 | X | X | 100 | Keypress left
+
+740 | X | X | 100 | Keypress left
+
+741 | X | X | 100 | Keypress down
+
+742 | X | X | 100 | Keypress down
+
+743 | X | X | 100 | Keypress right
+
+744 | X | X | 100 | Keypress up
+
+745 | X | X | 100 | Keypress up
+
+746 | X | X | 100 | Keypress left
+
+747 | X | X | 100 | Keypress up
+
+748 | X | X | 100 | Keypress up
+
+749 | X | X | 100 | Keypress right
+
+750 | X | X | 100 | Keypress up
+
+751 | X | X | 100 | Keypress right
+
+752 | X | X | 100 | Keypress up
+
+753 | X | X | 100 | Keypress right
+
+754 | X | X | 100 | Keypress right
+
+755 | X | X | 100 | Keypress right
+
+756 | X | X | 100 | Keypress right
+
+757 | X | X | 100 | Keypress down
+
+758 | X | X | 100 | Keypress down
+
+759 | X | X | 100 | Keypress down
+
+760 | X | X | 100 | Keypress down
+
+761 | X | X | 100 | Keypress right
+
+762 | X | X | 100 | Keypress down
+
+763 | X | X | 100 | Keypress left
+
+764 | X | X | 100 | Keypress down
+
+765 | X | X | 100 | Keypress down
+
+766 | X | X | 100 | Keypress right
+
+767 | X | X | 100 | Keypress up
+
+768 | X | X | 100 | Keypress right
+
+769 | X | X | 100 | Keypress right
+
+770 | X | X | 100 | Keypress right
+
+771 | X | X | 100 | Keypress down
+
+772 | X | X | 100 | Keypress down
+
+773 | X | X | 100 | Keypress left
+
+774 | X | X | 100 | Keypress left
+
+775 | X | X | 100 | Keypress up
+
+776 | X | X | 100 | Keypress up
+
+777 | X | X | 100 | Keypress down
+
+778 | X | X | 100 | Keypress down
+
+779 | X | X | 100 | Keypress right
+
+780 | X | X | 100 | Keypress up
+
+781 | X | X | 100 | Keypress up
+
+782 | X | X | 100 | Keypress right
+
+783 | X | X | 100 | Keypress down
+
+784 | X | X | 100 | Keypress down
+
+785 | X | X | 100 | Keypress right
+
+786 | X | X | 100 | Keypress up
+
+787 | X | X | 100 | Keypress up
+
+788 | X | X | 100 | Keypress up
+
+789 | X | X | 100 | Keypress right
+
+790 | X | X | 100 | Keypress right
+
+791 | X | X | 100 | Keypress down
+
+792 | X | X | 100 | Keypress left
+
+793 | X | X | 100 | Keypress down
+
+794 | X | X | 100 | Keypress up
+
+795 | X | X | 100 | Keypress right
+
+796 | X | X | 100 | Keypress down
+
+797 | X | X | 100 | Keypress right
+
+798 | X | X | 100 | Keypress up
+
+799 | X | X | 100 | Keypress up
+
+800 | X | X | 100 | Keypress left
+
+801 | X | X | 100 | Keypress up
+
+802 | X | X | 100 | Keypress right
+
+803 | X | X | 100 | Keypress down
+
+804 | X | X | 100 | Keypress right
+
+805 | X | X | 100 | Keypress up
+
+806 | X | X | 100 | Keypress up
+
+807 | X | X | 100 | Keypress left
+
+808 | X | X | 100 | Keypress right
+
+809 | X | X | 100 | Keypress left
+
+810 | X | X | 100 | Keypress up
+
+811 | X | X | 100 | Keypress right
+
+812 | X | X | 100 | Keypress left
+
+813 | X | X | 100 | Keypress right
+
+814 | X | X | 100 | Keypress up
+
+815 | X | X | 100 | Keypress left
+
+816 | X | X | 100 | Keypress right
+
+817 | X | X | 100 | Keypress left
+
+818 | X | X | 100 | Keypress up
+
+819 | X | X | 100 | Keypress left
+
+820 | X | X | 100 | Keypress up
+
+821 | X | X | 100 | Keypress left
+
+822 | X | X | 100 | Keypress left
+
+823 | X | X | 100 | Keypress left
+
+824 | X | X | 100 | Keypress down
+
+825 | X | X | 100 | Keypress right
+
+826 | X | X | 100 | Keypress up
+
+827 | X | X | 100 | Keypress down
+
+828 | X | X | 100 | Keypress left
+
+829 | X | X | 100 | Keypress up
+
+830 | X | X | 100 | Keypress left
+
+* | Level 21
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+832 | X | X | 100 | Keypress down
+
+833 | X | X | 100 | Keypress left
+
+834 | X | X | 100 | Keypress down
+
+835 | X | X | 100 | Keypress right
+
+836 | X | X | 100 | Keypress down
+
+837 | X | X | 100 | Keypress left
+
+838 | X | X | 100 | Keypress down
+
+839 | X | X | 100 | Keypress down
+
+840 | X | X | 100 | Keypress right
+
+841 | X | X | 100 | Keypress down
+
+842 | X | X | 100 | Keypress left
+
+843 | X | X | 100 | Keypress down
+
+844 | X | X | 100 | Keypress right
+
+845 | X | X | 100 | Keypress down
+
+* | Level 22
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+847 | X | X | 100 | Keypress down
+
+848 | X | X | 100 | Keypress down
+
+849 | X | X | 100 | Keypress down
+
+850 | X | X | 100 | Keypress left
+
+851 | X | X | 100 | Keypress left
+
+852 | X | X | 100 | Keypress left
+
+853 | X | X | 100 | Keypress left
+
+854 | X | X | 100 | Keypress left
+
+855 | X | X | 100 | Keypress left
+
+856 | X | X | 100 | Keypress left
+
+857 | X | X | 100 | Keypress left
+
+858 | X | X | 100 | Keypress down
+
+859 | X | X | 100 | Keypress down
+
+860 | X | X | 100 | Keypress down
+
+* | Level 23
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+861 | X | X | 100 | Keypress right
+
+862 | X | X | 100 | Keypress right
+
+863 | X | X | 100 | Keypress right
+
+864 | X | X | 100 | Keypress right
+
+865 | X | X | 100 | Keypress right
+
+866 | X | X | 100 | Keypress right
+
+867 | X | X | 100 | Keypress right
+
+868 | X | X | 100 | Keypress right
+
+869 | X | X | 100 | Keypress down
+
+870 | X | X | 100 | Keypress right
+
+871 | X | X | 100 | Keypress right
+
+872 | X | X | 100 | Keypress down
+
+873 | X | X | 100 | Keypress down
+
+874 | X | X | 100 | Keypress left
+
+875 | X | X | 100 | Keypress left
+
+876 | X | X | 100 | Keypress up
+
+877 | X | X | 100 | Keypress up
+
+878 | X | X | 100 | Keypress left
+
+879 | X | X | 100 | Keypress left
+
+880 | X | X | 100 | Keypress left
+
+881 | X | X | 100 | Keypress left
+
+882 | X | X | 100 | Keypress left
+
+883 | X | X | 100 | Keypress left
+
+884 | X | X | 100 | Keypress left
+
+885 | X | X | 100 | Keypress left
+
+* | Level 24
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+886 | X | X | 100 | Keypress right
+
+887 | X | X | 100 | Keypress right
+
+888 | X | X | 100 | Keypress up
+
+889 | X | X | 100 | Keypress right
+
+890 | X | X | 100 | Keypress right
+
+891 | X | X | 100 | Keypress down
+
+892 | X | X | 100 | Keypress right
+
+893 | X | X | 100 | Keypress right
+
+894 | X | X | 100 | Keypress up
+
+895 | X | X | 100 | Keypress up
+
+896 | X | X | 100 | Keypress left
+
+897 | X | X | 100 | Keypress left
+
+898 | X | X | 100 | Keypress up
+
+899 | X | X | 100 | Keypress up
+
+900 | X | X | 100 | Keypress right
+
+901 | X | X | 100 | Keypress right
+
+902 | X | X | 100 | Keypress down
+
+903 | X | X | 100 | Keypress right
+
+904 | X | X | 100 | Keypress right
+
+905 | X | X | 100 | Keypress down
+
+906 | X | X | 100 | Keypress right
+
+907 | X | X | 100 | Keypress right
+
+908 | X | X | 100 | Keypress down
+
+909 | X | X | 100 | Keypress down
+
+910 | X | X | 100 | Keypress left
+
+911 | X | X | 100 | Keypress left
+
+912 | X | X | 100 | Keypress up
+
+913 | X | X | 100 | Keypress left
+
+914 | X | X | 100 | Keypress left
+
+915 | X | X | 100 | Keypress down
+
+916 | X | X | 100 | Keypress left
+
+917 | X | X | 100 | Keypress left
+
+918 | X | X | 100 | Keypress down
+
+* | Level 25
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+920 | X | X | 100 | Keypress left
+
+921 | X | X | 100 | Keypress left
+
+922 | X | X | 100 | Keypress left
+
+923 | X | X | 100 | Keypress up
+
+924 | X | X | 100 | Keypress left
+
+925 | X | X | 100 | Keypress up
+
+926 | X | X | 100 | Keypress left
+
+927 | X | X | 100 | Keypress up
+
+928 | X | X | 100 | Keypress up
+
+929 | X | X | 100 | Keypress right
+
+930 | X | X | 100 | Keypress up
+
+931 | X | X | 100 | Keypress right
+
+932 | X | X | 100 | Keypress right
+
+933 | X | X | 100 | Keypress up
+
+934 | X | X | 100 | Keypress up
+
+935 | X | X | 100 | Keypress up
+
+936 | X | X | 100 | Keypress right
+
+937 | X | X | 100 | Keypress down
+
+938 | X | X | 100 | Keypress down
+
+939 | X | X | 100 | Keypress down
+
+940 | X | X | 100 | Keypress right
+
+941 | X | X | 100 | Keypress right
+
+942 | X | X | 100 | Keypress down
+
+943 | X | X | 100 | Keypress right
+
+944 | X | X | 100 | Keypress down
+
+945 | X | X | 100 | Keypress down
+
+946 | X | X | 100 | Keypress left
+
+947 | X | X | 100 | Keypress down
+
+948 | X | X | 100 | Keypress left
+
+949 | X | X | 100 | Keypress left
+
+950 | X | X | 100 | Keypress left
+
+951 | X | X | 100 | Keypress up
+
+952 | X | X | 100 | Keypress left
+
+953 | X | X | 100 | Keypress up
+
+954 | X | X | 100 | Keypress up
+
+955 | X | X | 100 | Keypress right
+
+956 | X | X | 100 | Keypress right
+
+957 | X | X | 100 | Keypress right
+
+958 | X | X | 100 | Keypress down
+
+959 | X | X | 100 | Keypress down
+
+960 | X | X | 100 | Keypress left
+
+961 | X | X | 100 | Keypress up
+
+962 | X | X | 100 | Keypress right
+
+963 | X | X | 100 | Keypress right
+
+964 | X | X | 100 | Keypress right
+
+* | Level 26
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+1001 | X | X | 100 | Keypress left
+
+1002 | X | X | 100 | Keypress left
+
+1003 | X | X | 100 | Keypress up
+
+1004 | X | X | 100 | Keypress up
+
+1005 | X | X | 100 | Keypress up
+
+1006 | X | X | 100 | Keypress up
+
+1007 | X | X | 100 | Keypress up
+
+1008 | X | X | 100 | Keypress up
+
+1009 | X | X | 100 | Keypress left
+
+1010 | X | X | 100 | Keypress down
+
+1011 | X | X | 100 | Keypress down
+
+1012 | X | X | 100 | Keypress left
+
+1013 | X | X | 100 | Keypress up
+
+1014 | X | X | 100 | Keypress right
+
+1015 | X | X | 100 | Keypress down
+
+1016 | X | X | 100 | Keypress left
+
+1017 | X | X | 100 | Keypress up
+
+1018 | X | X | 100 | Keypress up
+
+1019 | X | X | 100 | Keypress left
+
+1020 | X | X | 100 | Keypress down
+
+1021 | X | X | 100 | Keypress down
+
+1022 | X | X | 100 | Keypress down
+
+1023 | X | X | 100 | Keypress right
+
+1024 | X | X | 100 | Keypress right
+
+1025 | X | X | 100 | Keypress right
+
+1026 | X | X | 100 | Keypress right
+
+1027 | X | X | 100 | Keypress down
+
+1028 | X | X | 100 | Keypress down
+
+1029 | X | X | 100 | Keypress right
+
+1030 | X | X | 100 | Keypress up
+
+1031 | X | X | 100 | Keypress left
+
+1032 | X | X | 100 | Keypress down
+
+1033 | X | X | 100 | Keypress right
+
+1034 | X | X | 100 | Keypress up
+
+1035 | X | X | 100 | Keypress up
+
+1036 | X | X | 100 | Keypress right
+
+1037 | X | X | 100 | Keypress down
+
+1038 | X | X | 100 | Keypress down
+
+1039 | X | X | 100 | Keypress down
+
+* | Level 27
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+1042 | X | X | 100 | Keypress down
+
+1043 | X | X | 100 | Keypress down
+
+1044 | X | X | 100 | Keypress down
+
+1045 | X | X | 100 | Keypress left
+
+1046 | X | X | 100 | Keypress left
+
+1047 | X | X | 100 | Keypress left
+
+1048 | X | X | 100 | Keypress left
+
+1049 | X | X | 100 | Keypress left
+
+1050 | X | X | 100 | Keypress left
+
+1051 | X | X | 100 | Keypress left
+
+1052 | X | X | 100 | Keypress up
+
+1053 | X | X | 100 | Keypress left
+
+1054 | X | X | 100 | Keypress left
+
+1055 | X | X | 100 | Keypress down
+
+1056 | X | X | 100 | Keypress down
+
+1057 | X | X | 100 | Keypress right
+
+1058 | X | X | 100 | Keypress right
+
+1059 | X | X | 100 | Keypress up
+
+1060 | X | X | 100 | Keypress up
+
+1061 | X | X | 100 | Keypress left
+
+1062 | X | X | 100 | Keypress left
+
+1063 | X | X | 100 | Keypress down
+
+1064 | X | X | 100 | Keypress down
+
+1065 | X | X | 100 | Keypress right
+
+1066 | X | X | 100 | Keypress up
+
+1067 | X | X | 100 | Keypress down
+
+1068 | X | X | 100 | Keypress right
+
+1069 | X | X | 100 | Keypress up
+
+1070 | X | X | 100 | Keypress up
+
+1071 | X | X | 100 | Keypress left
+
+1072 | X | X | 100 | Keypress left
+
+1073 | X | X | 100 | Keypress down
+
+1074 | X | X | 100 | Keypress down
+
+1075 | X | X | 100 | Keypress right
+
+1076 | X | X | 100 | Keypress right
+
+1077 | X | X | 100 | Keypress up
+
+1078 | X | X | 100 | Keypress up
+
+1079 | X | X | 100 | Keypress left
+
+1080 | X | X | 100 | Keypress left
+
+1081 | X | X | 100 | Keypress down
+
+1082 | X | X | 100 | Keypress left
+
+1083 | X | X | 100 | Keypress left
+
+1084 | X | X | 100 | Keypress left
+
+1085 | X | X | 100 | Keypress left
+
+1086 | X | X | 100 | Keypress left
+
+1087 | X | X | 100 | Keypress left
+
+1088 | X | X | 100 | Keypress left
+
+1089 | X | X | 100 | Keypress down
+
+1090 | X | X | 100 | Keypress down
+
+* | Level 28
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+1093 | X | X | 100 | Keypress up
+
+1094 | X | X | 100 | Keypress up
+
+1095 | X | X | 100 | Keypress up
+
+1096 | X | X | 100 | Keypress right
+
+1097 | X | X | 100 | Keypress up
+
+1098 | X | X | 100 | Keypress up
+
+1099 | X | X | 100 | Keypress right
+
+1100 | X | X | 100 | Keypress up
+
+1101 | X | X | 100 | Keypress right
+
+1102 | X | X | 100 | Keypress right
+
+1103 | X | X | 100 | Keypress down
+
+1104 | X | X | 100 | Keypress right
+
+1105 | X | X | 100 | Keypress right
+
+1106 | X | X | 100 | Keypress right
+
+1107 | X | X | 100 | Keypress up
+
+1108 | X | X | 100 | Keypress right
+
+1109 | X | X | 100 | Keypress down
+
+1110 | X | X | 100 | Keypress right
+
+1111 | X | X | 100 | Keypress right
+
+1112 | X | X | 100 | Keypress up
+
+1113 | X | X | 100 | Keypress right
+
+1114 | X | X | 100 | Keypress right
+
+1115 | X | X | 100 | Keypress right
+
+1116 | X | X | 100 | Keypress right
+
+1117 | X | X | 100 | Keypress up
+
+1118 | X | X | 100 | Keypress up
+
+1119 | X | X | 100 | Keypress left
+
+1120 | X | X | 100 | Keypress up
+
+1121 | X | X | 100 | Keypress up
+
+1122 | X | X | 100 | Keypress up
+
+1123 | X | X | 100 | Keypress right
+
+1124 | X | X | 100 | Keypress down
+
+1125 | X | X | 100 | Keypress left
+
+1126 | X | X | 100 | Keypress down
+
+1127 | X | X | 100 | Keypress down
+
+1128 | X | X | 100 | Keypress right
+
+1129 | X | X | 100 | Keypress down
+
+1130 | X | X | 100 | Keypress down
+
+1131 | X | X | 100 | Keypress down
+
+1132 | X | X | 100 | Keypress left
+
+1133 | X | X | 100 | Keypress left
+
+1134 | X | X | 100 | Keypress up
+
+1135 | X | X | 100 | Keypress left
+
+1136 | X | X | 100 | Keypress left
+
+1137 | X | X | 100 | Keypress down
+
+1138 | X | X | 100 | Keypress left
+
+1139 | X | X | 100 | Keypress left
+
+1140 | X | X | 100 | Keypress left
+
+1141 | X | X | 100 | Keypress up
+
+1142 | X | X | 100 | Keypress left
+
+1143 | X | X | 100 | Keypress down
+
+1144 | X | X | 100 | Keypress left
+
+1145 | X | X | 100 | Keypress left
+
+1146 | X | X | 100 | Keypress up
+
+1147 | X | X | 100 | Keypress left
+
+1148 | X | X | 100 | Keypress left
+
+1149 | X | X | 100 | Keypress left
+
+1150 | X | X | 100 | Keypress left
+
+1151 | X | X | 100 | Keypress down
+
+1152 | X | X | 100 | Keypress right
+
+1153 | X | X | 100 | Keypress down
+
+1154 | X | X | 100 | Keypress down
+
+1155 | X | X | 100 | Keypress left
+
+1156 | X | X | 100 | Keypress down
+
+1157 | X | X | 100 | Keypress down
+
+1158 | X | X | 100 | Keypress right
+
+1159 | X | X | 100 | Keypress down
+
+* | Level 29
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+1162 | X | X | 100 | Keypress down
+
+1163 | X | X | 100 | Keypress right
+
+1164 | X | X | 100 | Keypress up
+
+1165 | X | X | 100 | Keypress right
+
+1166 | X | X | 100 | Keypress right
+
+1167 | X | X | 100 | Keypress down
+
+1168 | X | X | 100 | Keypress down
+
+1169 | X | X | 100 | Keypress left
+
+1170 | X | X | 100 | Keypress up
+
+1171 | X | X | 100 | Keypress up
+
+1172 | X | X | 100 | Keypress down
+
+1173 | X | X | 100 | Keypress right
+
+1174 | X | X | 100 | Keypress up
+
+1175 | X | X | 100 | Keypress up
+
+1176 | X | X | 100 | Keypress left
+
+1177 | X | X | 100 | Keypress up
+
+1178 | X | X | 100 | Keypress up
+
+1179 | X | X | 100 | Keypress right
+
+1180 | X | X | 100 | Keypress right
+
+1181 | X | X | 100 | Keypress right
+
+1182 | X | X | 100 | Keypress right
+
+1183 | X | X | 100 | Keypress right
+
+1184 | X | X | 100 | Keypress right
+
+1185 | X | X | 100 | Keypress right
+
+1186 | X | X | 100 | Keypress right
+
+1187 | X | X | 100 | Keypress right
+
+1188 | X | X | 100 | Keypress right
+
+1189 | X | X | 100 | Keypress down
+
+1190 | X | X | 100 | Keypress left
+
+1191 | X | X | 100 | Keypress up
+
+1192 | X | X | 100 | Keypress right
+
+1193 | X | X | 100 | Keypress down
+
+1194 | X | X | 100 | Keypress down
+
+1195 | X | X | 100 | Keypress left
+
+1196 | X | X | 100 | Keypress down
+
+1197 | X | X | 100 | Keypress down
+
+1198 | X | X | 100 | Keypress down
+
+1199 | X | X | 100 | Keypress right
+
+1200 | X | X | 100 | Keypress up
+
+1201 | X | X | 100 | Keypress up
+
+1202 | X | X | 100 | Keypress left
+
+1203 | X | X | 100 | Keypress down
+
+1204 | X | X | 100 | Keypress right
+
+1205 | X | X | 100 | Keypress up
+
+1206 | X | X | 100 | Keypress right
+
+1207 | X | X | 100 | Keypress right
+
+1208 | X | X | 100 | Keypress right
+
+1209 | X | X | 100 | Keypress up
+
+1210 | X | X | 100 | Keypress left
+
+1211 | X | X | 100 | Keypress left
+
+1212 | X | X | 100 | Keypress down
+
+1213 | X | X | 100 | Keypress down
+
+1214 | X | X | 100 | Keypress right
+
+1215 | X | X | 100 | Keypress right
+
+1216 | X | X | 100 | Keypress right
+
+1217 | X | X | 100 | Keypress down
+
+1218 | X | X | 100 | Keypress left
+
+1219 | X | X | 100 | Keypress left
+
+1220 | X | X | 100 | Keypress left
+
+1221 | X | X | 100 | Keypress left
+
+1222 | X | X | 100 | Keypress up
+
+1223 | X | X | 100 | Keypress up
+
+1224 | X | X | 100 | Keypress up
+
+1225 | X | X | 100 | Keypress up
+
+1226 | X | X | 100 | Keypress right
+
+1227 | X | X | 100 | Keypress right
+
+1228 | X | X | 100 | Keypress right
+
+1229 | X | X | 100 | Keypress right
+
+1230 | X | X | 100 | Keypress down
+
+1231 | X | X | 100 | Keypress left
+
+1232 | X | X | 100 | Keypress left
+
+1233 | X | X | 100 | Keypress left
+
+1234 | X | X | 100 | Keypress down
+
+1235 | X | X | 100 | Keypress down
+
+1236 | X | X | 100 | Keypress right
+
+1237 | X | X | 100 | Keypress right
+
+1238 | X | X | 100 | Keypress up
+
+1239 | X | X | 100 | Keypress left
+
+1240 | X | X | 100 | Keypress down
+
+1241 | X | X | 100 | Keypress left
+
+1242 | X | X | 100 | Keypress down
+
+1243 | X | X | 100 | Keypress left
+
+1244 | X | X | 100 | Keypress left
+
+1245 | X | X | 100 | Keypress down
+
+1246 | X | X | 100 | Keypress right
+
+1247 | X | X | 100 | Keypress down
+
+1248 | X | X | 100 | Keypress down
+
+1249 | X | X | 100 | Keypress left
+
+1250 | X | X | 100 | Keypress left
+
+1251 | X | X | 100 | Keypress left
+
+1252 | X | X | 100 | Keypress left
+
+1253 | X | X | 100 | Keypress left
+
+1254 | X | X | 100 | Keypress left
+
+1255 | X | X | 100 | Keypress left
+
+1256 | X | X | 100 | Keypress left
+
+1257 | X | X | 100 | Keypress left
+
+1258 | X | X | 100 | Keypress left
+
+1259 | X | X | 100 | Keypress up
+
+1260 | X | X | 100 | Keypress right
+
+1261 | X | X | 100 | Keypress down
+
+1262 | X | X | 100 | Keypress left
+
+1263 | X | X | 100 | Keypress up
+
+1264 | X | X | 100 | Keypress up
+
+1265 | X | X | 100 | Keypress right
+
+1266 | X | X | 100 | Keypress up
+
+1267 | X | X | 100 | Keypress left
+
+1268 | X | X | 100 | Keypress left
+
+1269 | X | X | 100 | Keypress left
+
+* | Boss
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+10 | RUN ACTION | WAIT MILLISECONDS | 100
+
+1274 | X | X | 200 | Keypress right
+
+1275 | X | X | 200 | Keypress right
+
+1276 | X | X | 200 | Keypress right
+
+1277 | X | X | 200 | Keypress right
+
+1278 | X | X | 200 | Keypress right
+
+1279 | X | X | 500 | Keypress right
+
+1280 | X | X | 150 | Keypress right
+
+1281 | X | X | 150 | Keypress right
+
+1282 | X | X | 150 | Keypress right
+
+1283 | X | X | 150 | Keypress right
+
+1284 | X | X | 150 | Keypress right
+
+1285 | X | X | 150 | Keypress right
+
+1286 | X | X | 150 | Keypress right
+
+1287 | X | X | 150 | Keypress up
+
+1288 | X | X | 150 | Keypress left
+
+1289 | X | X | 150 | Keypress left
+
+1290 | X | X | 150 | Keypress left
+
+1291 | X | X | 150 | Keypress left
+
+1292 | X | X | 150 | Keypress left
+
+1293 | X | X | 150 | Keypress left
+
+1294 | X | X | 150 | Keypress left
+
+1295 | X | X | 150 | Keypress left
+
+1296 | X | X | 150 | Keypress left
+
+1297 | X | X | 150 | Keypress left
+
+1298 | X | X | 150 | Keypress left
+
+1299 | X | X | 150 | Keypress left
+
+1300 | X | X | 150 | Keypress left
+
+1301 | X | X | 150 | Keypress up
+
+1302 | X | X | 150 | Keypress up
+
+1303 | X | X | 150 | Keypress up
+
+1304 | X | X | 150 | Keypress up
+
+1305 | X | X | 150 | Keypress up
+
+1306 | X | X | 150 | Keypress up
+
+1307 | X | X | 150 | Keypress right
+
+1308 | X | X | 150 | Keypress right
+
+1309 | X | X | 150 | Keypress right
+
+1310 | X | X | 150 | Keypress right
+
+1311 | X | X | 150 | Keypress right
+
+1312 | X | X | 150 | Keypress right
+
+1313 | X | X | 150 | Keypress right
+
+1314 | X | X | 150 | Keypress right
+
+1315 | X | X | 150 | Keypress right
+
+1316 | X | X | 150 | Keypress right
+
+1317 | X | X | 150 | Keypress right
+
+1318 | X | X | 150 | Keypress right
+
+1319 | X | X | 150 | Keypress right
+
+1320 | X | X | 150 | Keypress down
+
+1321 | X | X | 150 | Keypress down
+
+1322 | X | X | 150 | Keypress down
+
+1323 | X | X | 150 | Keypress down
+
+1324 | X | X | 150 | Keypress down
+
+1325 | X | X | 150 | Keypress left
+
+1326 | X | X | 150 | Keypress up
+
+1327 | X | X | 150 | Keypress up
+
+1328 | X | X | 150 | Keypress up
+
+1329 | X | X | 150 | Keypress up
+
+1330 | X | X | 150 | Keypress left
+
+1331 | X | X | 150 | Keypress left
+
+1332 | X | X | 150 | Keypress left
+
+1333 | X | X | 150 | Keypress down
+
+1334 | X | X | 150 | Keypress down
+
+1335 | X | X | 150 | Keypress down
+
+1336 | X | X | 150 | Keypress down
+
+1337 | X | X | 150 | Keypress left
+
+1338 | X | X | 150 | Keypress up
+
+1339 | X | X | 150 | Keypress up
+
+1340 | X | X | 150 | Keypress up
+
+1341 | X | X | 150 | Keypress up
+
+1342 | X | X | 150 | Keypress left
+
+1343 | X | X | 150 | Keypress left
+
+1344 | X | X | 150 | Keypress left
+
+1345 | X | X | 150 | Keypress down
+
+1346 | X | X | 150 | Keypress down
+
+1347 | X | X | 150 | Keypress down
+
+1348 | X | X | 150 | Keypress down
+
+1349 | X | X | 150 | Keypress left
+
+1350 | X | X | 150 | Keypress up
+
+1351 | X | X | 150 | Keypress up
+
+1352 | X | X | 150 | Keypress up
+
+1353 | X | X | 150 | Keypress up
+
+1354 | X | X | 150 | Keypress left
+
+1355 | X | X | 150 | Keypress left
+
+1356 | X | X | 150 | Keypress left
+
+1357 | X | X | 150 | Keypress down
+
+1358 | X | X | 150 | Keypress down
+
+1359 | X | X | 150 | Keypress down
+
+1360 | X | X | 150 | Keypress down
+
+1361 | X | X | 150 | Keypress down
